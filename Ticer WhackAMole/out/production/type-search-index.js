@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"WhackAMole","l":"MoleGamePanel.EscapeListener"},{"p":"WhackAMole","l":"Mole"},{"p":"WhackAMole","l":"MoleGamePanel"},{"p":"WhackAMole","l":"MolePanel"},{"p":"WhackAMole","l":"PausePanel"},{"p":"WhackAMole","l":"WhackAPaceKnight"}];updateSearchResults();
